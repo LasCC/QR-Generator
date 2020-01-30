@@ -1,0 +1,66 @@
+body {
+  font-family: "Poppins", Helvetica, sans-serif !important;
+  margin: 0px !important;
+}
+.MuiTypography-h1 {
+  font-family: "Poppins", "Helvetica", "Arial", sans-serif !important;
+}
+
+.backgroundRight {
+  background-image: url("https://cdn.dribbble.com/users/2482524/screenshots/5400460/mgga.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #b406e7 !important;
+}
+
+.MuiFormLabel-root.Mui-focused {
+  color: #b406e7 !important;
+}
+
+.hoverCard {
+  transition: all 0.3s ease;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.hoverCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 10px 45px -6px rgba(0, 0, 0, 0.25) !important;
+}
+
+.nav_text {
+  font-weight: 700;
+  color: white;
+  margin-right: 10px !important;
+}
+
+.text_image {
+  color: transparent;
+  background-image: url("https://i.imgur.com/X6kzOYN.png") !important;
+  background-position: 50%;
+  background-size: inherit;
+  background-clip: text;
+  -webkit-background-clip: text;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.borderBox {
+  -webkit-border-top-left-radius: 20px;
+  -webkit-border-bottom-left-radius: 20px;
+  -moz-border-radius-topleft: 20px;
+  -moz-border-radius-bottomleft: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.btn-download {
+  background-color: transparent;
+  color: black;
+  border: 2px solid; /* Green */
+  border-color: black;
+}
