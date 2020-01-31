@@ -1,6 +1,6 @@
 [![N|Solid](https://i.imgur.com/sCugwOH.png)](https://sowd6.csb.app/)
 
-This is a free generator of QR code.
+This app is a free to use generator of QR codes.
 
   - Built with React
   - Totally free to use
@@ -8,8 +8,7 @@ This is a free generator of QR code.
 
 # Features!
 
-  - This app generate : 
-  
+  - This app generate the following QR code : 
     - WIFI 
     - URL 
     - Phone Call 
@@ -18,7 +17,7 @@ This is a free generator of QR code.
 
 # Tech part
 
-This chat app uses a number of open source projects to work properly:
+This chat app uses a number of open source projects to work properly :
 
 * React
 * Material-ui by Google
