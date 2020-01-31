@@ -39,5 +39,9 @@ $ npm start
 
  - Change the interface
  - Add Dark mode 
+ 
+ ### Screenshots 
+ [![N|Solid](https://i.imgur.com/FF5P6EB.png)](https://i.imgur.com/FF5P6EB.png/)
+ [![N|Solid](https://i.imgur.com/e3L5XRp.png)](https://i.imgur.com/e3L5XRp.png/)
 
 @LasCC
