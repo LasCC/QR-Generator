@@ -124,7 +124,10 @@ export default function TemporaryDrawer() {
 
   return (
     <div>
-      <IconButton onClick={toggleDrawer("right", true)}>
+      <IconButton
+        onClick={toggleDrawer("right", true)}
+        style={{ backgroundColor: "white", fontWeight: "bold" }}
+      >
         <MenuIcon style={{ color: "black" }} />
       </IconButton>
       <Drawer

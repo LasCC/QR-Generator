@@ -123,8 +123,8 @@ export default props => {
                   style={{ marginTop: 10, fontSize: 15 }}
                   color="textSecondary"
                 >
-                  To connect your Wi-Fi with your <strong>iPhone</strong> or
-                  your <strong>Tablet</strong>, <br />
+                  To send a mail with your <strong>iPhone</strong> or your{" "}
+                  <strong>Tablet</strong>, <br />
                   please take a picture of the <strong>QR code</strong> and a{" "}
                   <strong>pop-up</strong> will show up. <br />
                   You just need to <strong>click the pop-up</strong> and there

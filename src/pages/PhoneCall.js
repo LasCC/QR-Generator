@@ -108,12 +108,11 @@ export default props => {
                   style={{ marginTop: 10, fontSize: 15 }}
                   color="textSecondary"
                 >
-                  To connect your Wi-Fi with your <strong>iPhone</strong> or
-                  your <strong>Tablet</strong>, <br />
-                  please take a picture of the <strong>QR code</strong> and a{" "}
-                  <strong>pop-up</strong> will show up. <br />
-                  You just need to <strong>click the pop-up</strong> and there
-                  you go !{" "}
+                  To call someone, please <strong>scan the QR</strong> <br />
+                  on your right and a <strong>popup will appear.</strong>
+                  <br />
+                  You just click on it and you can talk to {""}
+                  <strong>your correspondent.</strong>
                 </Typography>
                 <h1 style={{ marginTop: 15, fontSize: 15 }}>
                   Phone number : <br />
