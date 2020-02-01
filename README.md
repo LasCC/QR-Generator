@@ -1,4 +1,4 @@
-[![N|Solid](https://i.imgur.com/sCugwOH.png)](https://sowd6.csb.app/)
+[![N|Solid](https://i.imgur.com/BgMrWT3.png)](https://sowd6.csb.app/)
 
 This app is a free to use generator of QR codes.
 
