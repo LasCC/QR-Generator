@@ -1,21 +1,22 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
-import Drawer from "@material-ui/core/Drawer";
+import { Link } from "react-router-dom";
 import {
   List,
   ListItem,
   ListItemText,
   ListItemIcon,
   IconButton,
-  Divider
+  Divider,
+  Drawer
 } from "@material-ui/core";
 import SmsIcon from "@material-ui/icons/Sms";
 import PhoneIcon from "@material-ui/icons/Phone";
 import GitHubIcon from "@material-ui/icons/GitHub";
 import DraftsIcon from "@material-ui/icons/Drafts";
 import MenuIcon from "@material-ui/icons/Menu";
+import ContactMailIcon from "@material-ui/icons/ContactMail";
 import HttpIcon from "@material-ui/icons/Http";
-import { Link } from "react-router-dom";
 import WifiIcon from "@material-ui/icons/Wifi";
 
 const useStyles = makeStyles({
@@ -102,6 +103,15 @@ export default function TemporaryDrawer() {
               <DraftsIcon />
             </ListItemIcon>
             <ListItemText primary="Email" />
+          </ListItem>
+        </Link>
+
+        <Link to="/vcard" style={{ textDecoration: "none", color: "black" }}>
+          <ListItem button>
+            <ListItemIcon>
+              <ContactMailIcon />
+            </ListItemIcon>
+            <ListItemText primary="Contact card" />
           </ListItem>
         </Link>
 

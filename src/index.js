@@ -7,6 +7,7 @@ import URL_code from "./pages/URL";
 import UnknownPage from "./pages/UnknownPage";
 import PhoneCall from "./pages/PhoneCall";
 import Mail from "./pages/Mail";
+import vCard from "./pages/vCard";
 import "./styles.css";
 
 const App = () => {
@@ -18,6 +19,7 @@ const App = () => {
         <Route component={Messages} exact path="/sms" />
         <Route component={PhoneCall} exact path="/phone" />
         <Route component={Mail} exact path="/mail" />
+        <Route component={vCard} exact path="/vcard" />
         <Route component={UnknownPage} path="*" />
       </Switch>
     </>
