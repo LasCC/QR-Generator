@@ -14,6 +14,7 @@ This app is a free to use generator of QR codes.
     - Phone Call 
     - SMS 
     - Email 
+    - Contact card
 
 # Tech part
 
