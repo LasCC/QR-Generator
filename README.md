@@ -1,7 +1,5 @@
 [![N|Solid](https://i.imgur.com/BgMrWT3.png)](https://sowd6.csb.app/)
 
-This app is a free to use generator of QR codes.
-
   - Built with React
   - Totally free to use
   - Generate QR code with simplicity !
